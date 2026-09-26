@@ -27,5 +27,5 @@ This Excel dashboard provides insights into sales performance, construction cost
 - Clean layout for management reporting  
 
 ## 👤 Author
-Arjun — Business Analytics Intern
+Arjun — Data Analyst
 
